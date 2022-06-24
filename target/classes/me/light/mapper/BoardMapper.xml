@@ -11,5 +11,5 @@
   <select id="get" resultType="me.light.model.Board">
   	select * from board_tbl where bno = #{bno} 
   </select>
-  
+
 </mapper>
